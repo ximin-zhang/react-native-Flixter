@@ -1,28 +1,28 @@
 # react-native-Flixter
-# Project 1 - *Name of App Here*
+# Project 1 - *ReactFlixter*
 
-**Name of your app** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
+**ReactFlixter** is a movies app using the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
 
-Time spent: **X** hours spent in total
+Time spent: **20** hours spent in total
 
 ## User Stories
 
 The following **required** functionality is completed:
 
-- [ X ] User can view a list of movies currently playing in theaters. Poster images load asynchronously.
-- [ X ] User can view movie details by tapping on a cell.
+- [x] User can view a list of movies currently playing in theaters. Poster images load asynchronously.
+- [x] User can view movie details by tapping on a cell.
 - [ ] User can use hardware back button on Android to navigate.
-- [ X ] User can change the orientation of the phone to switch from landscape and portrait customized views.
-- [ X ] User sees loading state while waiting for the API.
+- [x] User can change the orientation of the phone to switch from landscape and portrait customized views.
+- [x] User sees loading state while waiting for the API.
 - [ ] User sees an error message when there is a network error.
-- [ X ] User can pull to refresh the movie list.
-- [ X ] Add a tab bar (view pager on Android) for **Now Playing** and **Top Rated** movies.
+- [x] User can pull to refresh the movie list.
+- [x] Add a tab bar (view pager on Android) for **Now Playing** and **Top Rated** movies.
 
 The following **optional** features are implemented:
 
-- [ X ] Customize the highlight and selection effect of the cell.
+- [x] Customize the highlight and selection effect of the cell.
 - [ ] Add a search bar.
-- [ X ] Customize the navigation bar.
+- [x] Customize the navigation bar.
 - [ ] User sees a play icon overlay on backdrop image if movie trailer is available.
 - [ ] User can tap on a button to play the movie trailer.
 - [ ] Tapping on a movie poster image shows the movie poster as full screen and zoomable.
@@ -38,12 +38,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://recordit.co/iIC5LXvRPR/gif/notify' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+![](http://g.recordit.co/iIC5LXvRPR.gif)
+GIF created with [Recordit](http://recordit.co/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+- [ ] Navigator, Props passing, communication between views, JavaScript!
 
 ## License
 
