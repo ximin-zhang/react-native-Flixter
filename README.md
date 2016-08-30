@@ -38,7 +38,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](http://g.recordit.co/iIC5LXvRPR.gif)
+![iic5lxvrpr](https://cloud.githubusercontent.com/assets/20563124/18110945/70468452-6ed0-11e6-8390-152c84118edb.gif)
+
 GIF created with [Recordit](http://recordit.co/).
 
 ## Notes
